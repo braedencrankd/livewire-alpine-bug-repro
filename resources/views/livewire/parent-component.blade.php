@@ -9,5 +9,6 @@
         <button class="px-4 py-1 bg-gray-200 rounded" wire:click="decrement">-</button>
     </div>
 
-    <livewire:child-component lazy />
+    <livewire:child-component />
+
 </div>
